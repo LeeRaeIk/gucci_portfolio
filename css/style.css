@@ -1,0 +1,147 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+* { margin: 0; padding: 0;}
+li { list-style: none; }
+a { color: inherit; text-decoration: none;}
+img { display: block; }
+
+div#wrap {
+  width: 100%;
+  overflow: hidden; margin: auto;
+}
+
+div.one {
+  width: 100vw; height: 100vh;
+}
+div.two {
+  width: 100vw; 
+}
+div.three {
+  width: 100vw; 
+}
+div.four {
+  width: 100vw; 
+}
+div.five {
+  width: 100vw; 
+}
+div.swiper-wrapper {
+  width: 100vw; height: 100vh;  position: relative;
+  margin: 0 auto;
+}
+div.two div.swiper-slide div.rabbit {
+  width: 100vw; height: 100vh;
+  background: url(../img/rabbit.png) no-repeat center/cover;
+}
+div.two div.swiper-slide div.mancoat {
+  width: 100vw; height: 100vh;
+  background: url(../img/man_coat2.png) no-repeat center/cover;
+}
+div.two div.swiper-slide div.bag {
+  width: 100vw; height: 100vh;
+  background: url(../img/gucci_bag.png) no-repeat center/cover;
+}
+div.two div.swiper-slide div.furfum {
+  width: 100vw; height: 100vh;
+  background: url(../img/Gangnam_studio.png) no-repeat center/cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.three div.swiper-slide div.apres {
+  width: 100vw; height: 100%;
+  background: url(../img/apres-ski.png) no-repeat center/cover;
+}
+div.three div.swiper-slide div.womancoat {
+  width: 100vw; height: 100%;
+  background: url(../img/g80_main.png) no-repeat center/cover;
+}
+div.three div.swiper-slide div.think1 {
+  width: 100vw; height: 100%;
+  background: url(../img/g90_awards.png) no-repeat center/cover;
+}
+div.three div.swiper-slide div.think2 {
+  width: 100vw; height: 100%;
+  background: url(../img/g90_main.png) no-repeat center/cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.four div.swiper-slide div.good {
+  width: 100vw; height: 100vh;
+  background: url(../img/good_game_img.png) no-repeat center/cover;
+}
+div.four div.swiper-slide div.think3 {
+  width: 100vw; height: 100vh;
+  background: url(../img/g90_main2.png) no-repeat center/cover;
+}
+div.four div.swiper-slide div.think4 {
+  width: 100vw; height: 100vh;
+  background: url(../img/g90_main3.png) no-repeat center/cover;
+}
+div.four div.swiper-slide div.think5 {
+  width: 100vw; height: 100vh;
+  background: url(../img/genesis_concept_car.jpg) no-repeat center/cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.five div.swiper-slide div.north {
+  width: 100vw; height: 100vh;
+  background: url(../img/gucci_north.png) no-repeat center/cover;
+}
+div.five div.swiper-slide div.think6 {
+  width: 100vw; height: 100vh;
+  background: url(../img/seoul2019_trip.png) no-repeat center/cover;
+}
+div.five div.swiper-slide div.think7 {
+  width: 100vw; height: 100vh;
+  background: url(../img/seoul_trip.png) no-repeat center/cover;
+}
+div.five div.swiper-slide div.think8 {
+  width: 100vw; height: 100vh;
+  background: url(../img/song-do.png) no-repeat center/cover;
+}
